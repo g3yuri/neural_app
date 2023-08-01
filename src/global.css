@@ -27,3 +27,6 @@ body {
   padding: 0;
   line-height: inherit;
 }
+.btn {
+  @apply h-10 min-h-min;
+}
